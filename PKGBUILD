@@ -3,9 +3,9 @@
 pkgname=xlibre-video-vesa
 _pkgname=xf86-video-vesa
 pkgver=25.0.0
-pkgrel=5
+pkgrel=6
 pkgdesc="XLibre fork of X.Org vesa video driver"
-arch=(x86_64)
+arch=(x86_64 aarch64)
 license=('MIT')
 _pkgname="${pkgname//xlibre/xf86}"
 url="https://github.com/X11Libre/${_pkgname}"
