@@ -3,7 +3,7 @@
 pkgname=xlibre-video-vesa
 _pkgname=xf86-video-vesa
 pkgver=25.0.0
-pkgrel=6
+pkgrel=7
 pkgdesc="XLibre fork of X.Org vesa video driver"
 arch=(x86_64 aarch64)
 license=('MIT')
